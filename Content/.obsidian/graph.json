@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "tag:#type/process",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#stage/target_discovery",
+      "color": {
+        "a": 1,
+        "rgb": 14573526
+      }
+    },
+    {
+      "query": "tag:#stage/lead_discovery",
+      "color": {
+        "a": 1,
+        "rgb": 15251747
+      }
+    },
+    {
+      "query": "tag:#stage/design_optimization",
+      "color": {
+        "a": 1,
+        "rgb": 12618334
+      }
+    },
+    {
+      "query": "tag:#stage/formulation_and_delivery",
+      "color": {
+        "a": 1,
+        "rgb": 1622985
+      }
+    },
+    {
+      "query": "tag:#stage/preclinical_studies",
+      "color": {
+        "a": 1,
+        "rgb": 10989240
+      }
+    },
+    {
+      "query": "tag:#stage/manufacturing",
+      "color": {
+        "a": 1,
+        "rgb": 6005749
+      }
+    },
+    {
+      "query": "tag:#stage/clinical_trials",
+      "color": {
+        "a": 1,
+        "rgb": 5596896
+      }
+    },
+    {
+      "query": "tag:#stage/regulatory_approval",
+      "color": {
+        "a": 1,
+        "rgb": 10841077
+      }
+    },
+    {
+      "query": "tag:#stage/patient",
+      "color": {
+        "a": 1,
+        "rgb": 15890344
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.48063733491038707,
+  "close": true
+}

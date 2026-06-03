@@ -1,0 +1,15 @@
+---
+tags:
+  - type/glossary
+---
+Neural network approaches for chemical interactions are machine-learning models that predict the energy of a molecular system, and the forces on its atoms, directly from where the atoms sit. They are usually called machine-learning interatomic potentials (MLIPs) or neural network potentials (NNPs). They exist to bridge a gap between two existing options: classical force fields, of the kind used in [[molecular dynamics]], are fast but cannot describe a chemical bond breaking or forming; quantum-mechanical calculations describe that chemistry accurately but are far too slow to run on large systems for long stretches of time.
+
+The idea is to learn the quantum answer rather than recompute it each time. A model is trained on a large library of small-molecule configurations whose energies and forces have already been calculated by quantum chemistry. During training the network adjusts its parameters until, given a set of atomic positions, it reproduces those reference energies and forces. Once trained, evaluating the network is enormously cheaper than redoing the quantum calculation — close to the speed of a classical force field — yet it can reproduce quantum-level behavior, including bonds breaking and forming, because the quantum data it learned from contained those situations. This lets a simulation approach quantum accuracy at near-classical speed and scale, where a full quantum treatment would be unaffordable and a classical force field would be chemically blind.
+
+The key practical concern is transferability: a model is reliable only for the kinds of atoms and arrangements represented in its training data, and can be unreliable when asked about chemistry it never saw. Much of the research effort goes into broadening that coverage and into network designs that generalize from less data.
+
+The approach traces to Behler and Parrinello, who in 2007 showed a neural network could reproduce a quantum potential-energy surface at a fraction of the cost. Representative modern examples include the ANI family of potentials, trained to cover most of the elements found in drug-like molecules, and MACE, a more recent design that builds many-atom interactions into the network to reach high accuracy. In protein design these models are used, like [[Quantum Mechanics - Molecular Mechanics]], to model the reactive chemistry of a designed enzyme's active site — the part that classical molecular dynamics cannot represent.
+
+## External resources
+- [Duignan, "The Potential of Neural Network Potentials," *ACS Physical Chemistry Au* (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11117678/) — a freely accessible review that explains, from the ground up, how neural network potentials are trained and where they help.
+- [Behler & Parrinello, "Generalized Neural-Network Representation of High-Dimensional Potential-Energy Surfaces," *Physical Review Letters* (2007)](https://aiichironakano.github.io/cs653/Behler-NNPES-PRL07.pdf) — the foundational paper that launched neural network potentials.

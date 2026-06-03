@@ -1,0 +1,14 @@
+{
+    "permissions": {
+        "allow": [
+            "Bash(git:*)",
+            "Bash(mkdir:*)",
+            "Bash(mv:*)",
+            "Bash(python3:*)"
+        ],
+        "deny": [
+            "Bash(rm -rf /*)",
+            "Bash(sudo *)"
+        ]
+    }
+}

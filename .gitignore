@@ -1,0 +1,9 @@
+.DS_Store
+
+# Obsidian local UI state (rest of .obsidian stays tracked)
+Content/.obsidian/workspace.json
+Content/.obsidian/workspace-mobile.json
+Content/.obsidian/cache/
+
+# Claude Code machine-local settings
+.claude/settings.local.json

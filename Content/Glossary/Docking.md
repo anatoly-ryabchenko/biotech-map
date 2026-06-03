@@ -1,0 +1,15 @@
+---
+tags:
+  - type/glossary
+---
+Docking is two molecules coming together and binding at a place where their surfaces match. For binding to happen, the two surfaces have to be complementary in two senses at once. The first is *shape*: the bumps of one fit the hollows of the other with little gap and no clash. The second is *chemistry*: across the contact, positive charges line up against negative ones, *hydrophobic* patches (water-repelling, "oily" regions that avoid contact with water) line up against other hydrophobic patches, and atoms that can form hydrogen bonds line up against partners they can bond to. Where both kinds of complementarity hold, the molecules stick together into a stable complex.
+
+Two ideas describe any given binding. The *binding pose* is the specific way the two molecules are arranged when joined — which face of one meets which part of the other, and at what orientation. The *binding affinity* is how strongly they hold together once in that pose: a strong affinity means they stay bound, a weak one means they drift apart easily. The same pair of molecules may have several possible poses of differing affinity; usually one is the strongest and is the one that actually forms.
+
+[[In silico|In silico]] docking predicts all this without ever making the molecules. A docking program searches over many possible poses of one molecule against the other, looking for arrangements where the surfaces fit. Each candidate pose is then graded by a *scoring function* — a calculation that estimates the binding affinity by adding up the favorable and unfavorable contacts (charge attraction and repulsion, hydrophobic contact, the fit of shapes, hydrogen bonds, and so on). The program reports the best-scoring poses and an estimate of how tightly the pair would bind. So docking answers three questions at once: *whether* two molecules bind, *how* they sit when bound, and *how strongly*.
+
+This is central to checking a designed protein. A candidate is docked against its intended target to confirm it binds as planned, and docked against the [[negative design]] non-targets to confirm it does *not* bind them — selectivity verified before any lab work. Because docking needs each molecule's three-dimensional shape, it depends on [[structure-prediction networks]] to supply those folds, and the shapes themselves are governed by [[protein folding principles]]. A known weakness: a program may place a pose correctly yet score its affinity wrongly, so a predicted binding strength is treated as a rough guide rather than a measurement.
+
+## External resources
+- [*Molecular Docking: Principles and Methods* (DrugDesign.org)](https://www.drugdesign.org/chapters/molecular-docking/) — a free, ground-up tutorial chapter covering pose search, scoring functions, and where docking succeeds and fails.
+- [Kuntz, Blaney, Oatley, Langridge & Ferrin, "A geometric approach to macromolecule–ligand interactions," *Journal of Molecular Biology* (1982)](https://pubmed.ncbi.nlm.nih.gov/7154081/) — the foundational paper that introduced systematic computational docking by shape-matching a ligand into a receptor.

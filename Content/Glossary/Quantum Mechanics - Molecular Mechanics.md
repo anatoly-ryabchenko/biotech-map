@@ -1,0 +1,15 @@
+---
+tags:
+  - type/glossary
+---
+Quantum Mechanics / Molecular Mechanics (QM/MM) is a way of simulating a large molecule, such as a protein, when chemistry — bonds breaking and forming — happens in only a small part of it. It splits the system into two regions and models each at a different level of detail.
+
+The reason for splitting comes from a trade-off. A quantum-mechanical calculation describes electrons explicitly, which is what lets it capture bonds rearranging during a reaction. But that calculation is enormously expensive, and its cost grows steeply with the number of atoms, so applying it to a whole protein with thousands of atoms and its surrounding water is infeasible. The cheaper alternative, classical molecular mechanics — the kind of force-field model used in [[molecular dynamics]] — can handle a whole protein easily, but it treats bonds as fixed springs and therefore cannot represent a bond breaking or forming. So neither approach alone works for a reaction inside a large molecule: quantum methods are accurate but unaffordable at that size, classical methods are affordable but chemically blind.
+
+QM/MM resolves this by using each method where it fits. The small reactive region — for an enzyme, the active site where the chemistry occurs, typically a few dozen atoms — is treated quantum-mechanically, so bond breaking and forming are described faithfully. Everything else — the rest of the protein, plus the surrounding solvent — is treated with classical molecular mechanics. The two regions are coupled: the classical environment exerts its electrostatic and steric influence on the quantum region, so the surrounding protein shapes and tunes the reaction it encloses, while the bulk of the atoms are handled at low cost. The result is quantum-level accuracy where the chemistry happens, at a price set mostly by the large, cheaply modeled remainder.
+
+This makes QM/MM a direct physical model of enzyme chemistry, and it is used in protein design to check whether a designed active site can actually drive its intended reaction — holding catalytic groups in the right geometry and stabilizing the transition state — rather than merely binding the [[Substrate|substrate]]. A faster, learned alternative to the quantum part is described in [[neural network approaches for chemical interactions]]. The original QM/MM approach was developed by Warshel and Levitt, work later recognized with a share of the 2013 Nobel Prize in Chemistry.
+
+## External resources
+- [The Nobel Prize in Chemistry 2013 — Popular information (NobelPrize.org)](https://www.nobelprize.org/prizes/chemistry/2013/popular-information/) — a digestible account of why classical and quantum models each fall short alone, and how combining them solved it.
+- [Warshel & Levitt, "Theoretical studies of enzymic reactions… in the reaction of lysozyme," *Journal of Molecular Biology* (1976)](https://pubmed.ncbi.nlm.nih.gov/985660/) — the foundational paper that introduced the combined quantum/classical treatment of an enzyme reaction.
