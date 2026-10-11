@@ -11,7 +11,7 @@ An antibody is a Y-shaped protein the immune system makes to recognize one speci
 
 Four routes are used, and most programs run more than one in parallel.
 
-**Immunization and hybridoma.** Inject the target into a mouse, let its immune system raise a response against it, then harvest the antibody-producing B cells from the spleen and fuse each with an immortal tumor cell so it divides forever — a _hybridoma_, a permanent factory for one antibody. This is the historical workhorse and still lies behind most approved antibodies, though its products are mouse-derived and need humanizing later.
+**Immunization and hybridoma.** Inject the target into a mouse, let its immune system raise a response against it, then harvest the antibody-producing B cells from the spleen and fuse each with an immortal tumor cell so it divides forever — a _hybridoma_, a permanent factory for one antibody. This is the historical workhorse. Together with the transgenic-mouse route below, which also uses hybridomas, immunization lies behind most approved antibodies — though antibodies from ordinary mice are mouse-derived and need humanizing later.
 
 **Transgenic mice.** The same approach but in mice engineered to carry human antibody genes, so the antibodies emerge essentially human from the start.
 
