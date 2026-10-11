@@ -104,4 +104,4 @@ Aliases are documentation shorthand for sets of modalities that share enough ste
 
 ---
 
-The rules, conventions, and constraints this vault obeys are defined in `SPECS.md` at the repository root; the full target structure of modalities and process nodes lives in `MODALITIES-AND-PROCESSES.md`.
+The rules, conventions, and constraints this vault obeys are defined in `SPECS.md` at the repository root.
