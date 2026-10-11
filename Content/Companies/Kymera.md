@@ -18,4 +18,3 @@ Kymera Therapeutics is a US biotechnology company headquartered in Watertown, Ma
 - [[Chemical synthesis & scale-up (small molecules & degraders)]] — degrader manufacturing
 - [[Phase 1 — safety & dose]] — first-in-human trials
 - [[Phase 2 — efficacy & dose-finding]] — mid-stage development
-- [[Phase 3 — confirmatory]] — confirmatory trials

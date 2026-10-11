@@ -5,7 +5,7 @@ tags:
 
 # Schrödinger
 
-Schrödinger is a US company headquartered in New York City that builds physics-based computational chemistry software — most notably free-energy methods that predict, before anything is made in the lab, how tightly a candidate molecule will bind its target. It both licenses this platform to the wider industry and uses it to develop its own pipeline of small molecules, several of which are in clinical trials.
+Schrödinger is a US company headquartered in New York City that builds physics-based computational chemistry software — most notably free-energy methods that predict, before anything is made in the lab, how tightly a candidate molecule will bind its target. It both licenses this platform to the wider industry and uses it to discover its own small molecules, which it takes into early clinical trials and then increasingly partners or out-licenses rather than developing alone.
 
 **Scale:** Public (Nasdaq) · ~900 staff · HQ New York, US (as of 2026)
 

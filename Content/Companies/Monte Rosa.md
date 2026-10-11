@@ -18,4 +18,3 @@ Monte Rosa Therapeutics is a biotechnology company headquartered in Boston, Mass
 - [[Chemical synthesis & scale-up (small molecules & degraders)]] — degrader manufacturing
 - [[Phase 1 — safety & dose]] — first-in-human trials
 - [[Phase 2 — efficacy & dose-finding]] — mid-stage development
-- [[Phase 3 — confirmatory]] — confirmatory trials

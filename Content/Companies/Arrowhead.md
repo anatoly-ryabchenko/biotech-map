@@ -5,7 +5,7 @@ tags:
 
 # Arrowhead
 
-Arrowhead Pharmaceuticals is a US biotechnology company headquartered in Pasadena, California, developing RNA interference (siRNA) medicines. Its TRiM delivery platform is designed to reach tissues beyond the liver — including lung and muscle — which has historically been the hardest part of RNAi delivery. It develops drugs both independently and through partnerships (for example olpasiran with Amgen, and deals with Sarepta and Takeda).
+Arrowhead Pharmaceuticals is a US biotechnology company headquartered in Pasadena, California, developing RNA interference (siRNA) medicines. Its TRiM delivery platform is designed to reach tissues beyond the liver — including lung and muscle — which has historically been the hardest part of RNAi delivery. Its first own approved drug, Redemplo (plozasiran, for a rare inherited triglyceride disorder), was approved by the FDA in 2025. It develops drugs both independently and through partnerships (for example olpasiran with Amgen, and deals with Sarepta and Takeda).
 
 **Scale:** Public (Nasdaq) · ~700 staff · HQ Pasadena, CA, US (as of 2026)
 

@@ -7,7 +7,7 @@ tags:
 
 AstraZeneca is a British-Swedish pharmaceutical company headquartered in Cambridge, UK, with major R&D hubs in Cambridge (UK), Gaithersburg (US) and Gothenburg (Sweden). It is strongest in oncology, cardiovascular-renal-metabolic and respiratory-immunology disease. Its modality range spans small molecules, antibodies, antibody-drug conjugates (Enhertu and Datroway, partnered with Daiichi Sankyo), antisense oligonucleotides (eplontersen, with Ionis) and an expanding cell-therapy effort.
 
-**Scale:** Public (LSE / Nasdaq) · ~90,000 staff · HQ Cambridge, UK (as of 2026)
+**Scale:** Public (LSE / NYSE / Nasdaq Stockholm) · ~90,000 staff · HQ Cambridge, UK (as of 2026)
 
 ## What it does in the map
 

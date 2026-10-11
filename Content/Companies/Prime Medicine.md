@@ -5,7 +5,7 @@ tags:
 
 # Prime Medicine
 
-Prime Medicine is a US gene-editing company headquartered in Cambridge, Massachusetts, developing prime editing — a "search-and-replace" technique that can rewrite stretches of DNA without cutting both strands, in principle correcting the great majority of disease-causing mutations. Its lead programme targets chronic granulomatous disease, an inherited immune disorder.
+Prime Medicine is a US gene-editing company headquartered in Cambridge, Massachusetts, developing prime editing — a "search-and-replace" technique that can rewrite stretches of DNA without cutting both strands, in principle correcting the great majority of disease-causing mutations. After a 2025 restructuring its lead programmes are liver diseases — Wilson disease and alpha-1 antitrypsin deficiency — while it pursues a licence application for its first programme, in chronic granulomatous disease (an inherited immune disorder).
 
 **Scale:** Public (Nasdaq) · ~400 staff · HQ Cambridge, MA, US (as of 2026)
 

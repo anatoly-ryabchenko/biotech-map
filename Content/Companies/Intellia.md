@@ -5,7 +5,7 @@ tags:
 
 # Intellia
 
-Intellia Therapeutics is a US gene-editing company headquartered in Cambridge, Massachusetts, focused on editing genes directly inside the body (in-vivo CRISPR). It pioneered systemic in-vivo editing by delivering CRISPR machinery to the liver in lipid nanoparticles; its lead programmes are nexiguran ziclumeran for transthyretin (ATTR) amyloidosis and a treatment for hereditary angioedema. It also pursues ex-vivo edited cell therapies and partners with Regeneron.
+Intellia Therapeutics is a US gene-editing company headquartered in Cambridge, Massachusetts, focused on editing genes directly inside the body (in-vivo CRISPR). It pioneered systemic in-vivo editing by delivering CRISPR machinery to the liver in lipid nanoparticles; its lead programmes are nexiguran ziclumeran for transthyretin (ATTR) amyloidosis — whose Phase 3 trials were paused by the FDA in late 2025 after a patient died following severe liver injury, then resumed in early 2026 with added liver monitoring — and lonvoguran ziclumeran for hereditary angioedema. It also pursues ex-vivo edited cell therapies and partners with Regeneron.
 
 **Scale:** Public (Nasdaq) · ~1,000 staff · HQ Cambridge, MA, US (as of 2026)
 

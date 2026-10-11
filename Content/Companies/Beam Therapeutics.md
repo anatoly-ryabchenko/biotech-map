@@ -19,4 +19,3 @@ Beam Therapeutics is a US gene-editing company headquartered in Cambridge, Massa
 - [[Treatment & follow-up]] — long-term follow-up of treated patients in trials
 - [[Phase 1 — safety & dose]] — first-in-human trials
 - [[Phase 2 — efficacy & dose-finding]] — mid-stage development
-- [[Phase 3 — confirmatory]] — confirmatory trials

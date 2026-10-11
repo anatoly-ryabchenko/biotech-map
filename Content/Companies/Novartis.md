@@ -5,7 +5,7 @@ tags:
 
 # Novartis
 
-Novartis is a Swiss pharmaceutical company headquartered in Basel, focused since 2023 purely on innovative patented medicines (its generics arm Sandoz was spun off). It is unusually broad in modality: alongside small molecules and antibodies it is a leader in radioligand therapy (Pluvicto, Lutathera), siRNA (Leqvio/inclisiran), CAR-T cell therapy (Kymriah), and gene therapy (Zolgensma). Core areas are cardiovascular, oncology, immunology and neuroscience.
+Novartis is a Swiss pharmaceutical company headquartered in Basel, focused since 2023 purely on innovative patented medicines (its generics arm Sandoz was spun off). It is unusually broad in modality: alongside small molecules and antibodies it is a leader in radioligand therapy (Pluvicto, Lutathera), siRNA (Leqvio/inclisiran) and, since buying Avidity Biosciences in 2026, antibody–oligonucleotide conjugates for muscle disease, CAR-T cell therapy (Kymriah), and gene therapy (Zolgensma). Core areas are cardiovascular, oncology, immunology and neuroscience.
 
 **Scale:** Public (SIX / NYSE) · ~76,000 staff · HQ Basel, CH (as of 2026)
 
@@ -19,6 +19,7 @@ Novartis is a Swiss pharmaceutical company headquartered in Basel, focused since
 - [[Biomanufacturing (protein biologics)]] — antibody and protein production
 - [[Therapeutic protein discovery & engineering]] — engineered protein biologics
 - [[Oligonucleotide design (oligonucleotide)]] — siRNA design (inclisiran / Leqvio)
+- [[Oligonucleotide conjugate delivery (oligonucleotide)]] — antibody–oligonucleotide conjugates for muscle delivery (Avidity)
 - [[Oligonucleotide manufacturing (oligonucleotide)]] — siRNA manufacturing
 - [[Targeting vector & isotope selection (radiopharmaceutical)]] — radioligand targeting (Pluvicto, Lutathera)
 - [[Radiochemistry & radioligand optimization (radiopharmaceutical)]] — radioligand design and labelling chemistry
